@@ -1,1 +1,2 @@
 # Measuring-the-Pulse-of-Prosperity-An-Index-of-Economic-Freedom-Analysis
+"Measuring the Pulse of Prosperity: An Index of Economic Freedom Analysis" is a data-driven evaluation, often visualized on platforms like Tableau, that assesses how key economic freedoms—such as rule of law, regulatory efficiency, and market openness—impact national prosperity. This analysis typically utilizes global, annual, or specialized, index datasets, such as the Heritage Foundation’s, to rank countries on a scale of 0 to 100, showing that higher freedom correlates with greater prosperity. 
